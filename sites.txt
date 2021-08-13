@@ -1,0 +1,102 @@
+﻿白芙泥官网
+cd /data/www/www.baifuni.com
+publishsite 
+publishcdn www.baifuni.com
+		
+		
+白芙泥推广
+cd /data/www/www.baifuni.net/
+publishsite 
+publishcdn www.baifuni.net www.baifuni.net.cn
+
+
+瓷肌官网
+cd /data/www/www.chinaskin.cn
+publishsite
+publishcdn http://www.chinaskin.cn/
+
+
+瓷肌推广
+cd /data/www/www.chinaskin.net
+publishsite
+publishcdn http://www.chinaskin.net/ http://www.chinaskin.net.cn/ http://www.chinaskin.org/ http://www.sansl.com.cn/
+
+
+纤雅官网
+cd /data/www/www.xianya.cc
+publishsite
+publish-lxcdn  http://w2.qianyaso.net/
+
+
+纤雅推广
+cd /data/www/www.qianyaso.net
+publishsite
+publish-lxcdn http://www.qianyaso.net/ http://w2.jianfeitea.com/ http://w2.jianfeitea.cc/  http://www.jianfeitea.hk/
+
+
+cd /data/www/new.qianyaso.net
+publishsite
+
+
+养巢官网
+cd /data/www/www.sansejin.com.cn
+publishsite
+publish-lxcdn http://www.sansejin.com.cn/
+
+		
+养巢推广	
+cd /data/www/www.sansejin.name
+publishsite
+publish-lxcdn http://w2.sansejin.hk/  http://www.sansejin.name/  http://w3.zllg.cn/  
+
+cd /data/www/w3.zllg.net 
+publishsite
+publish-lxcdn http://w3.zllg.net/
+
+
+丰胸养巢综合
+cd /data/www/www.sansejin.hk
+publishsite
+publish-lxcdn  http://www.sansejin.hk/ http://www.sansejin.org/ http://www.sansejin.tv/
+
+
+丰胸官网		
+cd /data/www/www.sansejin.cc
+publishsite
+publish-lxcdn http://www.sansejin.cc/ 
+
+
+丰胸推广	
+cd /data/www/www.sansejin.biz
+publishsite
+publish-lxcdn  http://www.sansejin.biz/  http://w2.zllg.cn/ http://w2.zllg.net/
+		
+		
+增高官网  
+cd /data/www/www.opopi.com/zenggao
+publishsite
+publish-lxcdn http://www.opopi.com/zenggao/  http://www.opopi.com/zenggao2/ 
+
+
+增高推广
+cd /data/www/www.toshamp.net
+publishsite
+publish-lxcdn  http://www.toshamp.com http://www.toshamp.net http://w2.toshamp.com http://w2.toshamp.net
+
+
+移动商城
+www.sell3.com  /data/www/www.sell3.com/mobile
+
+m2.sansl.com.cn m.chinaskin.net m.chinaskin.net.cn;  /data/mobile/m.chinaskin.net
+m.chinaskin.hk  /data/mobile/m.chinaskin.net
+app.chinaskin.org app.chinatop1.net app.sansl.com.cn easou.chinaskin.net /data/mobile/m.chinaskin.net
+
+cd /data/mobile/m.chinaskin.net
+publishcdn m2.sansl.com.cn m.chinaskin.net m.chinaskin.net.cn m.chinaskin.hk app.chinaskin.org app.sansl.com.cn easou.chinaskin.net
+app.chinatop1.net 
+
+publish-lxcdn  http://m.sansejin.hk/
+
+
+3g.chinaskin.cn 
+/data/www/3g.chinaskin.cn2
